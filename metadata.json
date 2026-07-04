@@ -1,0 +1,6 @@
+{
+  "name": "Portafolio Académico Digital",
+  "description": "Una aplicación interactiva para construir, redactar con IA y organizar un portafolio universitario listo para publicar en Google Sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
